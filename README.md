@@ -1,4 +1,4 @@
-# Multimedia Content Automation Pipeline
+# HistoryReels
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![APIs](https://img.shields.io/badge/APIs-xAI%20|%20ElevenLabs%20|%20Leonardo-orange.svg) ![Cloud](https://img.shields.io/badge/Cloud-Google%20Drive%20|%20YouTube-green.svg)
 
